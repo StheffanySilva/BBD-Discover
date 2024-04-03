@@ -14,7 +14,7 @@
 - Selenium WebDriver
 
 ## 👨🏻‍💻 Como executar o projeto
-1. Conar o repositório, instalar as dependências
+1. Clonar o repositório, instalar as dependências
    
 ```
 bundle install
